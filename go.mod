@@ -15,7 +15,7 @@ require (
 	github.com/bep/golibsass v1.1.1
 	github.com/bep/gowebp v0.3.0
 	github.com/bep/helpers v0.4.0
-	github.com/bep/lazycache v0.2.0
+	github.com/bep/lazycache v0.4.0
 	github.com/bep/logg v0.4.0
 	github.com/bep/mclib v1.20400.20402
 	github.com/bep/overlayfs v0.6.0
@@ -123,7 +123,7 @@ require (
 	github.com/google/wire v0.5.0 // indirect
 	github.com/googleapis/enterprise-certificate-proxy v0.3.2 // indirect
 	github.com/googleapis/gax-go/v2 v2.12.0 // indirect
-	github.com/hashicorp/golang-lru/v2 v2.0.1 // indirect
+	github.com/hashicorp/golang-lru/v2 v2.0.7 // indirect
 	github.com/inconshreveable/mousetrap v1.1.0 // indirect
 	github.com/invopop/yaml v0.2.0 // indirect
 	github.com/jmespath/go-jmespath v0.4.0 // indirect
