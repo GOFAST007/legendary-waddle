@@ -62,7 +62,7 @@ require (
 	github.com/spf13/fsync v0.10.0
 	github.com/spf13/pflag v1.0.5
 	github.com/tdewolff/minify/v2 v2.20.10
-	github.com/tdewolff/parse/v2 v2.7.7
+	github.com/tdewolff/parse/v2 v2.7.9
 	github.com/yuin/goldmark v1.6.0
 	github.com/yuin/goldmark-emoji v1.0.2
 	go.uber.org/atomic v1.11.0
@@ -152,11 +152,7 @@ require (
 	golang.org/x/oauth2 v0.15.0 // indirect
 	golang.org/x/sys v0.15.0 // indirect
 	golang.org/x/time v0.5.0 // indirect
-
-	golang.org/x/xerrors v0.0.0-20220907171357-04be3eba64a2 // indirect
-
 	golang.org/x/xerrors v0.0.0-20231012003039-104605ab7028 // indirect
-
 	google.golang.org/appengine v1.6.8 // indirect
 	google.golang.org/genproto v0.0.0-20231211222908-989df2bf70f3 // indirect
 	google.golang.org/genproto/googleapis/api v0.0.0-20231211222908-989df2bf70f3 // indirect
